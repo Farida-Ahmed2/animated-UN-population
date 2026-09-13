@@ -1,0 +1,5 @@
+import pandas as pd
+
+df = pd.read_csv('C:/Users/user/Documents/Time_series_in python/data/un-country-data.csv')
+
+df.head(5)
